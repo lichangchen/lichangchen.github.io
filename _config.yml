@@ -15,7 +15,7 @@ links:
   - name:         GitHub
     url:          https://github.com/lichangchen
     external:     true
-highlighter:      pygments
+rouge:      pygments
 permalink:        pretty
 markdown:         redcarpet
 redcarpet:
