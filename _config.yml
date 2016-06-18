@@ -8,12 +8,12 @@ google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
 links:
   - name:         About
-    url:          /about
+    url:          Hello World
   - name:         Blog
-    url:          http://muan.co
+    url:          
     external:     true
   - name:         GitHub
-    url:          http://github.com/muan
+    url:          https://github.com/lichangchen
     external:     true
 highlighter:      pygments
 permalink:        pretty
